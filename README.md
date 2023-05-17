@@ -4,7 +4,7 @@
 
 - 🙋 Applied mathematician interested in modeling, analysis, and development of scientific software.
 - :bowtie: Postdoctoral fellow at the Department of Mathematics, University of Bergen, Norway.
-- 🔭 Core developer of [PorePy](https://github.com/pmgbergen/porepy). 
+- :computer: Core developer of [PorePy](https://github.com/pmgbergen/porepy). 
 
 ## Currently working on...
 
