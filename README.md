@@ -1,9 +1,28 @@
-### Hi there 👋
+### Hi there 👋. Thanks for visiting!
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.researchgate.net/profile/Jhabriel-Varela">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-9cf" alt="ResearchGate Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=cpGVM0EAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google Scholar-Profile-orange" alt="Google Scholar Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhabrielvarela/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/JhabrielV">
+    <img src="https://img.shields.io/badge/Twitter-Profile-blue" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 ### About me
 
-- 🙋 I'm an applied mathematician interested in modeling, analysis, and development of scientific software.
-- :bowtie: Postdoctoral fellow at the Department of Mathematics, University of Bergen, Norway.
+- 🙋 I'm an applied mathematician whose interested in mathematical modeling, numerical analysis, and development of scientific software.
+- :bowtie: Currently doing a postdoc at [@pmgbergen](https://github.com/pmgbergen).
 - :computer: Core developer of [PorePy](https://github.com/pmgbergen/porepy). 
 
 ### Currently working on
