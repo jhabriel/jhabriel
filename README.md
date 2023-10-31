@@ -19,21 +19,21 @@
 </div>
 
 
-### About me
+### About me:
 
-- 🙋 I'm an applied mathematician whose interested in mathematical modeling, numerical analysis, and development of scientific software.
-- :bowtie: Currently doing a postdoc at [@pmgbergen](https://github.com/pmgbergen).
-- :computer: Core developer of [PorePy](https://github.com/pmgbergen/porepy). 
+- 🙋 I'm an applied mathematician who is interested in mathematical modelling, numerical analysis, and the development of scientific software.
+- :bowtie: Researcher at [@nidtec-una](https://github.com/nidtec-una).
+- :computer: Core developer of [KrySBAS](https://github.com/nidtec-una/krysbas-dev). 
 
-### Currently working on
+### Currently working on:
 
-- 🔭 Fracture propagation using finite volume techniques.
-- 🔭 Modeling of unsaturated flow in fractured porous media.
-- 🔭 System-level testing of PorePy.
+- 🔭 A posteriori error estimation and adaptive mesh refinement.
+- 🔭 Unsaturated fractured flow.
+- 🔭 Development of MATLAB-based FLOSS.
 
-### How to reach me
+### How to reach me?
 
-- :e-mail: jhabriel@gmail.com
+- :e-mail: jhabriel@pol.una.py
 
 <!--
 **jhabriel/jhabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
