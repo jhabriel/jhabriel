@@ -13,15 +13,13 @@
   <a href="https://www.linkedin.com/in/jhabrielvarela/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/JhabrielV">
-    <img src="https://img.shields.io/badge/Twitter-Profile-blue" alt="Twitter Badge"/>
-  </a>
-</div>
 
+  [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@jhabriel)](https://joss.theoj.org/papers/reviewed_by/@jhabriel)
+</div>
 
 ### About me:
 
-- 🙋 I'm an applied mathematician who is interested in mathematical modelling, numerical analysis, and the development of scientific software.
+- 🙋 I'm an applied mathematician who is interested in mathematical modeling, numerical analysis, and the development of scientific software.
 - :bowtie: Researcher at [@nidtec-una](https://github.com/nidtec-una).
 - :computer: Core developer of [KrySBAS](https://github.com/nidtec-una/krysbas-dev). 
 
