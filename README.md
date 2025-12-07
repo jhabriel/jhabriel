@@ -20,7 +20,7 @@
 ### About me:
 
 - 🙋 I'm an applied mathematician who is interested in mathematical modeling, numerical analysis, and the development of scientific software.
-- :bowtie: Researcher at [@nidtec-una](https://github.com/nidtec-una).
+- :bowtie: Associate Professor at [Polytechnic University Taiwan-Paraguay](https://www.uptp.edu.py).
 - :computer: Core developer of [KrySBAS](https://github.com/nidtec-una/krysbas-dev). 
 
 ### Currently working on:
@@ -31,7 +31,7 @@
 
 ### How to reach me?
 
-- :e-mail: jhabriel@pol.una.py
+- :e-mail: jvarela@uptp.edu.py
 
 <!--
 **jhabriel/jhabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
